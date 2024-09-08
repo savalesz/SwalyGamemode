@@ -1,0 +1,14 @@
+name: SwalyGamemode
+main: me.swaly.swalyGamemode.Main
+version: 1.0
+commands:
+  gmc:
+    description: Kreatív módba való váltás
+  gms:
+    description: Túlélő módba való váltás
+  gmsp:
+    description: Szemlélő módba való váltás
+  gma:
+    description: Kaland módba való váltás
+  gm:
+    description: Gamemode parancsok megtekintése
